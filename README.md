@@ -22,7 +22,7 @@ No, all you need is a 6-Axis Robot Arm that you can build by yourself.
 
 This repository contains STL files to print a 6-Axis Robot Arm with a 3D printer.
 
-Note : You need at least a 200mm*200mm*200mm 3D printer to be able to print all the parts.
+Note : You need at least a 200mm *200mm *200mm 3D printer to be able to print all the parts.
 
 You can find Niryo One ROS stack here : https://github.com/I-Robot7/6-Axis_Robot_Arm
 
